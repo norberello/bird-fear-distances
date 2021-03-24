@@ -1,5 +1,7 @@
 ## Distancias de huida de aves de Europa frente a America-Australia
 
+<img src="otherfiles/fear order.png" alt="some_text">
+
 **Data source**: Livezey KB, Fernández-Juricic E, Blumstein DT. Database of bird flight initiation distances to assist in estimating effects from human disturbance and delineating buffer areas. Journal of Fish and Wildlife Management 7(1):181-191; e1944-687X. doi: 10.3996/082015-JFWM-078
 
 <http://nebula.wsimg.com/dae0dfa4f6186d775ad7fe73080fdb7f?AccessKeyId=AF775D103BAAD321910E&disposition=0&alloworigin=1>
